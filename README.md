@@ -1,6 +1,5 @@
 # Mohammad Anas - Personal Portfolio
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/nawab-noddy/Portfolio/main/images/portfolio-screenshot.png)
 
 This is my personal portfolio website, built from scratch to showcase my skills, professional experience, and personal projects. It features a modern, fully responsive dark theme with several dynamic and interactive elements to create an engaging user experience.
 
@@ -8,7 +7,7 @@ This is my personal portfolio website, built from scratch to showcase my skills,
 
 ## 🚀 Live Demo
 
-You can view the live site here: **[https://nawab-noddy.github.io/Portfolio/](https://nawab-noddy.github.io/Portfolio/)**
+You can view the live site here: **[[https://nawab-noddy.github.io/Portfolio/](https://nawab-noddy.github.io/Portfolio/)](https://nawab-noddy.github.io/Personal-Portfolio/#home)**
 
 *(Note: If this URL isn't correct, you may need to enable GitHub Pages in your repository settings.)*
 

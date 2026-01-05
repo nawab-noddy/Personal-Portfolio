@@ -1,7 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body{
   margin: 0;
   padding: 0;
-  scroll-behavior: smooth;
+
   /* --- NEW: Dark theme base --- */
   background-color: #1f1f1f;
   color: #f0f0f0;
